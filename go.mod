@@ -1,4 +1,4 @@
-module stash.kopano.io/kgol/oidc-go
+module github.com/openkop/oidc-go
 
 go 1.13
 
